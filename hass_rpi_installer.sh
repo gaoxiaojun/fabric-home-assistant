@@ -65,6 +65,7 @@ while getopts ":n" opt; do
 	sudo pip install appdirs
 	sudo pip install six
 	sudo pip install fabric
+	sudo pip install pathlib
     
     git clone https://github.com/gaoxiaojun/fabric-home-assistant.git
 
@@ -132,6 +133,7 @@ sudo pip install packaging
 sudo pip install appdirs
 sudo pip install six
 sudo pip install fabric
+sudo pip install pathlib
 
 git clone https://github.com/gaoxiaojun/fabric-home-assistant.git
 
