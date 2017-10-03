@@ -24,7 +24,7 @@ elif py34.is_dir():
 else:
     # Let's just assume 3.6
     py_ver = "python3.6"
-fi
+
 
 env.hosts = ['localhost']
 env.user = "pi"
