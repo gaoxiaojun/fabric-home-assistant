@@ -21,7 +21,7 @@ elif py34.is_dir():
     py_ver = "python3.4"
     print("* WARNING *")
     print("  Support for Python 3.4 will be removed around 1 January 2018, when aiohttp drops support for it.")
-else
+else:
     # Let's just assume 3.6
     py_ver = "python3.6"
 fi
