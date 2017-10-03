@@ -13,7 +13,7 @@ The only requirement is that you have a Raspberry Pi with a fresh installation o
 *  Run the following command
 
 ```bash
-$ curl -O https://raw.githubusercontent.com/home-assistant/fabric-home-assistant/master/hass_rpi_installer.sh && sudo chown pi:pi hass_rpi_installer.sh && bash hass_rpi_installer.sh
+$ curl -O https://raw.githubusercontent.com/gaoxiaojun/fabric-home-assistant/master/hass_rpi_installer.sh && sudo chown pi:pi hass_rpi_installer.sh && bash hass_rpi_installer.sh
 ```
 *Note this command is one line and not run as sudo*
 
